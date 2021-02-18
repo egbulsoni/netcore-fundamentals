@@ -13,6 +13,7 @@ C:\Users\Lenovo T430\Desktop\dev\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Ode
 C:\Users\Lenovo T430\Desktop\dev\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
 C:\Users\Lenovo T430\Desktop\dev\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
 C:\Users\Lenovo T430\Desktop\dev\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.genruntimeconfig.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\appsettings.Development.json
 C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\appsettings.json
 C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.deps.json
 C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.runtimeconfig.json

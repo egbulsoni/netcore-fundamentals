@@ -18,6 +18,7 @@ namespace OdeToFood
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddSingleton<IGreeter, Greeter>();
+            services.AddMvc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -25,38 +26,23 @@ namespace OdeToFood
                             IHostingEnvironment env,
                             IGreeter greeter, ILogger<Startup> logger)
         {
-            //if (env.IsDevelopment())
-            //{
-            //    app.UseDeveloperExceptionPage();
-            //}
-
-            app.Use(next =>
+            
+            if(env.IsDevelopment())
             {
-                return async context =>
-                {
-                    logger.LogInformation("Request incoming");
-                    if (context.Request.Path.StartsWithSegments("/mym"))
-                    {
-                        await context.Response.WriteAsync("Hit!");
-                        logger.LogInformation("Request handled");
-                    }
-                    else
-                    {
-                        await next(context);
-                        logger.LogInformation("Request outgoing");
-                    }
-                };
-            });
+                app.UseDeveloperExceptionPage();
+            }
 
-            app.UseWelcomePage(new WelcomePageOptions
-            {
-                Path="/wp"
-            }); // responds to every request
+            //app.UseDefaultFiles();
+            //app.UseFileServer();
+
+            app.UseStaticFiles();
+            app.UseMvcWithDefaultRoute();
 
             app.Run(async (context) =>
             {
+                //throw new Exception("Error!");
                 var greeting = greeter.GetMessageOfTheDay();
-                await context.Response.WriteAsync(greeting);
+                await context.Response.WriteAsync($"{greeting} : {env.EnvironmentName}");
             });
         }
     }
