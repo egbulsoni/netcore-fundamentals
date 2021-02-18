@@ -1,0 +1,15 @@
+C:\Users\Lenovo T430\Desktop\dev\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.deps.json
+C:\Users\Lenovo T430\Desktop\dev\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.runtimeconfig.json
+C:\Users\Lenovo T430\Desktop\dev\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.runtimeconfig.dev.json
+C:\Users\Lenovo T430\Desktop\dev\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.dll
+C:\Users\Lenovo T430\Desktop\dev\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.pdb
+C:\Users\Lenovo T430\Desktop\dev\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csprojAssemblyReference.cache
+C:\Users\Lenovo T430\Desktop\dev\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfoInputs.cache
+C:\Users\Lenovo T430\Desktop\dev\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfo.cs
+C:\Users\Lenovo T430\Desktop\dev\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T430\Desktop\dev\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cache
+C:\Users\Lenovo T430\Desktop\dev\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cs
+C:\Users\Lenovo T430\Desktop\dev\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo T430\Desktop\dev\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
+C:\Users\Lenovo T430\Desktop\dev\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
+C:\Users\Lenovo T430\Desktop\dev\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.genruntimeconfig.cache
