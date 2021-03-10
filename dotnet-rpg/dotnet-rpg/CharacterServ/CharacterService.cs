@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -19,7 +20,7 @@ namespace dotnet_rpg.CharacterServ
         public CharacterService(IMapper mapper)
         {
             _mapper = mapper;
-            
+
         }
         public async Task<ServiceResponse<List<GetCharacterDto>>> AddCharacter(AddCharacterDto newCharacter)
         {
@@ -50,16 +51,23 @@ namespace dotnet_rpg.CharacterServ
         public async Task<ServiceResponse<GetCharacterDto>> UpdateCharacter(UpdateCharacterDto updatedCharacter)
         {
             ServiceResponse<GetCharacterDto> serviceResponse = new ServiceResponse<GetCharacterDto>();
-            Character character = characters.FirstOrDefault(c => c.Id == updatedCharacter.Id);
-            character.Name = updatedCharacter.Name;
-            character.Class = updatedCharacter.Class;
-            character.Defense = updatedCharacter.Defense;
-            character.HitPoints = updatedCharacter.HitPoints;
-            character.Inteligence = updatedCharacter.Inteligence;
-            character.Strength = updatedCharacter.Strength;
-            
-            serviceResponse.Data = _mapper.Map<GetCharacterDto>(character);
+            try
+            {
+                Character character = characters.FirstOrDefault(c => c.Id == updatedCharacter.Id);
+                character.Name = updatedCharacter.Name;
+                character.Class = updatedCharacter.Class;
+                character.Defense = updatedCharacter.Defense;
+                character.HitPoints = updatedCharacter.HitPoints;
+                character.Inteligence = updatedCharacter.Inteligence;
+                character.Strength = updatedCharacter.Strength;
 
+                serviceResponse.Data = _mapper.Map<GetCharacterDto>(character);
+            }
+            catch (Exception e)
+            {
+                serviceResponse.Success = false;
+                serviceResponse.Message = e.Message;
+            }
             return serviceResponse;
         }
     }
