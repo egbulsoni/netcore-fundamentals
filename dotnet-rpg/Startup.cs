@@ -14,6 +14,7 @@ using Microsoft.OpenApi.Models;
 
 namespace dotnet_rpg
 {
+    **AULA 7**
     public class Startup
     {
         public Startup(IConfiguration configuration)
