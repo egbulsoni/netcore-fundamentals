@@ -13,10 +13,6 @@ namespace dotnet_rpg.CharacterServ
 {
     public class CharacterService : ICharacterService
     {
-        private static List<Character> characters = new List<Character>{
-            new Character(),
-            new Character { Id=1, Name="sam"}
-        };
 
         private readonly IMapper _mapper;
         private readonly DataContext _context;
@@ -25,7 +21,7 @@ namespace dotnet_rpg.CharacterServ
             _mapper = mapper;
             _context = context;
         }
-        **Aula9**
+        
         public async Task<ServiceResponse<List<GetCharacterDto>>> AddCharacter(AddCharacterDto newCharacter)
         {
             ServiceResponse<List<GetCharacterDto>> serviceResponse = new ServiceResponse<List<GetCharacterDto>>();
@@ -42,10 +38,11 @@ namespace dotnet_rpg.CharacterServ
             ServiceResponse<List<GetCharacterDto>> serviceResponse = new ServiceResponse<List<GetCharacterDto>>();
             try
             {
-                Character character = characters.First(c => c.Id == id);
-                characters.Remove(character);
+                Character character = await _context.Characters.FirstAsync(c => c.Id == id);
+                _context.Characters.Remove(character);
+                await _context.SaveChangesAsync();
 
-                serviceResponse.Data = (characters.Select(c => _mapper.Map<GetCharacterDto>(c))).ToList();
+                serviceResponse.Data = (_context.Characters.Select(c => _mapper.Map<GetCharacterDto>(c))).ToList();
             }
             catch (Exception e)
             {
@@ -78,13 +75,16 @@ namespace dotnet_rpg.CharacterServ
             ServiceResponse<GetCharacterDto> serviceResponse = new ServiceResponse<GetCharacterDto>();
             try
             {
-                Character character = characters.FirstOrDefault(c => c.Id == updatedCharacter.Id);
+                Character character = await _context.Characters.FirstOrDefaultAsync(c => c.Id == updatedCharacter.Id);
                 character.Name = updatedCharacter.Name;
                 character.Class = updatedCharacter.Class;
                 character.Defense = updatedCharacter.Defense;
                 character.HitPoints = updatedCharacter.HitPoints;
                 character.Inteligence = updatedCharacter.Inteligence;
                 character.Strength = updatedCharacter.Strength;
+
+                _context.Characters.Update(character);
+                await _context.SaveChangesAsync();
 
                 serviceResponse.Data = _mapper.Map<GetCharacterDto>(character);
             }
