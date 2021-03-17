@@ -1,3 +1,5 @@
+using dotnet_rpg.CharacterServ;
+
 namespace dotnet_rpg.Models
 {
     public class Character
@@ -10,6 +12,9 @@ namespace dotnet_rpg.Models
         public int Inteligence { get; set; } = 10;
         public RpgClass Class { get; set; } = RpgClass.Shaman;
         public User User { get; set; }
+        public Weapon Weapon { get; set; }
+        
+        
         
         
         

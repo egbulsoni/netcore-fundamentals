@@ -17,6 +17,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using System.Text;
+using Microsoft.AspNetCore.Http;
 
 namespace dotnet_rpg
 {
@@ -50,6 +51,7 @@ namespace dotnet_rpg
 
                 };
             });
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
         }
 
