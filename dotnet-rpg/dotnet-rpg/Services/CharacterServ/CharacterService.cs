@@ -4,6 +4,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
 using AutoMapper;
+using dotnet_rpg.CharacterServ;
 using dotnet_rpg.Data;
 using dotnet_rpg.Dtos.Character;
 using dotnet_rpg.Models;
@@ -11,7 +12,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace dotnet_rpg.CharacterServ
+namespace dotnet_rpg.Services.CharacterServ
 {
     public class CharacterService : ICharacterService
     {

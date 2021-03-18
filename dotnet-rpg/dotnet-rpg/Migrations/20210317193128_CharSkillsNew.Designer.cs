@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using dotnet_rpg.Data;
 
 namespace dotnet_rpg.Migrations
 {
     [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [Migration("20210317193128_CharSkillsNew")]
+    partial class CharSkillsNew
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -53,13 +55,7 @@ namespace dotnet_rpg.Migrations
                     b.Property<int>("Class")
                         .HasColumnType("int");
 
-                    b.Property<int>("Defeats")
-                        .HasColumnType("int");
-
                     b.Property<int>("Defense")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Fights")
                         .HasColumnType("int");
 
                     b.Property<int>("HitPoints")
@@ -75,9 +71,6 @@ namespace dotnet_rpg.Migrations
                         .HasColumnType("int");
 
                     b.Property<int?>("UserId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Victories")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -117,7 +110,7 @@ namespace dotnet_rpg.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Skills");
+                    b.ToTable("Skill");
                 });
 
             modelBuilder.Entity("dotnet_rpg.Models.User", b =>
@@ -164,7 +157,7 @@ namespace dotnet_rpg.Migrations
             modelBuilder.Entity("dotnet_rpg.Models.CharacterSkill", b =>
                 {
                     b.HasOne("dotnet_rpg.Models.Character", "Character")
-                        .WithMany("CharacterSkills")
+                        .WithMany("CharacterSkill")
                         .HasForeignKey("CharacterId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -182,7 +175,7 @@ namespace dotnet_rpg.Migrations
 
             modelBuilder.Entity("dotnet_rpg.Models.Character", b =>
                 {
-                    b.Navigation("CharacterSkills");
+                    b.Navigation("CharacterSkill");
 
                     b.Navigation("Weapon");
                 });

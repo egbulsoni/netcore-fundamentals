@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using dotnet_rpg.CharacterServ;
 
 namespace dotnet_rpg.Models
@@ -13,6 +14,16 @@ namespace dotnet_rpg.Models
         public RpgClass Class { get; set; } = RpgClass.Shaman;
         public User User { get; set; }
         public Weapon Weapon { get; set; }
+        public List<CharacterSkill> CharacterSkills { get; set; }
+        public int Fights { get; set; }
+        public int Victories { get; set; }
+        public int Defeats { get; set; }
+        
+        
+        
+        
+        
+        
         
         
         
