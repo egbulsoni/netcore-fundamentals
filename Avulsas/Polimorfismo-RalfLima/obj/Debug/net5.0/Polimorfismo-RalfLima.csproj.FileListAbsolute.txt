@@ -1,0 +1,16 @@
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Polimorfismo-RalfLima\obj\Debug\net5.0\Polimorfismo-RalfLima.csprojAssemblyReference.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Polimorfismo-RalfLima\obj\Debug\net5.0\Polimorfismo-RalfLima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Polimorfismo-RalfLima\obj\Debug\net5.0\Polimorfismo-RalfLima.AssemblyInfoInputs.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Polimorfismo-RalfLima\obj\Debug\net5.0\Polimorfismo-RalfLima.AssemblyInfo.cs
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Polimorfismo-RalfLima\obj\Debug\net5.0\Polimorfismo-RalfLima.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Polimorfismo-RalfLima\bin\Debug\net5.0\Polimorfismo-RalfLima.exe
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Polimorfismo-RalfLima\bin\Debug\net5.0\Polimorfismo-RalfLima.deps.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Polimorfismo-RalfLima\bin\Debug\net5.0\Polimorfismo-RalfLima.runtimeconfig.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Polimorfismo-RalfLima\bin\Debug\net5.0\Polimorfismo-RalfLima.runtimeconfig.dev.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Polimorfismo-RalfLima\bin\Debug\net5.0\Polimorfismo-RalfLima.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Polimorfismo-RalfLima\bin\Debug\net5.0\ref\Polimorfismo-RalfLima.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Polimorfismo-RalfLima\bin\Debug\net5.0\Polimorfismo-RalfLima.pdb
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Polimorfismo-RalfLima\obj\Debug\net5.0\Polimorfismo-RalfLima.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Polimorfismo-RalfLima\obj\Debug\net5.0\ref\Polimorfismo-RalfLima.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Polimorfismo-RalfLima\obj\Debug\net5.0\Polimorfismo-RalfLima.pdb
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Polimorfismo-RalfLima\obj\Debug\net5.0\Polimorfismo-RalfLima.genruntimeconfig.cache
