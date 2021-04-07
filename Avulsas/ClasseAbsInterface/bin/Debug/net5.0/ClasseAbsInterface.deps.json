@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ClasseAbsInterface/1.0.0": {
+        "runtime": {
+          "ClasseAbsInterface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClasseAbsInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

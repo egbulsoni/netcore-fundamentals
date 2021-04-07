@@ -1,0 +1,16 @@
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbsInterface\bin\Debug\net5.0\ClasseAbsInterface.exe
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbsInterface\bin\Debug\net5.0\ClasseAbsInterface.deps.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbsInterface\bin\Debug\net5.0\ClasseAbsInterface.runtimeconfig.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbsInterface\bin\Debug\net5.0\ClasseAbsInterface.runtimeconfig.dev.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbsInterface\bin\Debug\net5.0\ClasseAbsInterface.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbsInterface\bin\Debug\net5.0\ref\ClasseAbsInterface.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbsInterface\bin\Debug\net5.0\ClasseAbsInterface.pdb
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbsInterface\obj\Debug\net5.0\ClasseAbsInterface.csprojAssemblyReference.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbsInterface\obj\Debug\net5.0\ClasseAbsInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbsInterface\obj\Debug\net5.0\ClasseAbsInterface.AssemblyInfoInputs.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbsInterface\obj\Debug\net5.0\ClasseAbsInterface.AssemblyInfo.cs
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbsInterface\obj\Debug\net5.0\ClasseAbsInterface.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbsInterface\obj\Debug\net5.0\ClasseAbsInterface.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbsInterface\obj\Debug\net5.0\ref\ClasseAbsInterface.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbsInterface\obj\Debug\net5.0\ClasseAbsInterface.pdb
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbsInterface\obj\Debug\net5.0\ClasseAbsInterface.genruntimeconfig.cache
