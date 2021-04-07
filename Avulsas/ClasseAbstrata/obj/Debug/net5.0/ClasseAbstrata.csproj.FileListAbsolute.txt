@@ -1,0 +1,16 @@
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbstrata\obj\Debug\net5.0\ClasseAbstrata.csprojAssemblyReference.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbstrata\obj\Debug\net5.0\ClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbstrata\obj\Debug\net5.0\ClasseAbstrata.AssemblyInfoInputs.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbstrata\obj\Debug\net5.0\ClasseAbstrata.AssemblyInfo.cs
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbstrata\obj\Debug\net5.0\ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbstrata\bin\Debug\net5.0\ClasseAbstrata.exe
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbstrata\bin\Debug\net5.0\ClasseAbstrata.deps.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbstrata\bin\Debug\net5.0\ClasseAbstrata.runtimeconfig.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbstrata\bin\Debug\net5.0\ClasseAbstrata.runtimeconfig.dev.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbstrata\bin\Debug\net5.0\ClasseAbstrata.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbstrata\bin\Debug\net5.0\ref\ClasseAbstrata.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbstrata\bin\Debug\net5.0\ClasseAbstrata.pdb
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbstrata\obj\Debug\net5.0\ClasseAbstrata.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbstrata\obj\Debug\net5.0\ref\ClasseAbstrata.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbstrata\obj\Debug\net5.0\ClasseAbstrata.pdb
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\ClasseAbstrata\obj\Debug\net5.0\ClasseAbstrata.genruntimeconfig.cache
