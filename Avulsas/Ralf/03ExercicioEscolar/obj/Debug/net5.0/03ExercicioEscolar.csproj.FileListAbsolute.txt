@@ -1,0 +1,16 @@
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\03ExercicioEscolar\bin\Debug\net5.0\03ExercicioEscolar.exe
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\03ExercicioEscolar\bin\Debug\net5.0\03ExercicioEscolar.deps.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\03ExercicioEscolar\bin\Debug\net5.0\03ExercicioEscolar.runtimeconfig.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\03ExercicioEscolar\bin\Debug\net5.0\03ExercicioEscolar.runtimeconfig.dev.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\03ExercicioEscolar\bin\Debug\net5.0\03ExercicioEscolar.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\03ExercicioEscolar\bin\Debug\net5.0\ref\03ExercicioEscolar.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\03ExercicioEscolar\bin\Debug\net5.0\03ExercicioEscolar.pdb
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.csprojAssemblyReference.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.AssemblyInfoInputs.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.AssemblyInfo.cs
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\03ExercicioEscolar\obj\Debug\net5.0\ref\03ExercicioEscolar.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.pdb
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.genruntimeconfig.cache
