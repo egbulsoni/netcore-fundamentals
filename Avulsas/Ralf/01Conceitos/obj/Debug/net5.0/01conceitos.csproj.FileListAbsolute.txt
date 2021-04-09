@@ -1,0 +1,16 @@
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\01conceitos\bin\Debug\net5.0\01conceitos.exe
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\01conceitos\bin\Debug\net5.0\01conceitos.deps.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\01conceitos\bin\Debug\net5.0\01conceitos.runtimeconfig.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\01conceitos\bin\Debug\net5.0\01conceitos.runtimeconfig.dev.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\01conceitos\bin\Debug\net5.0\01conceitos.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\01conceitos\bin\Debug\net5.0\ref\01conceitos.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\01conceitos\bin\Debug\net5.0\01conceitos.pdb
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\01conceitos\obj\Debug\net5.0\01conceitos.csprojAssemblyReference.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\01conceitos\obj\Debug\net5.0\01conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\01conceitos\obj\Debug\net5.0\01conceitos.AssemblyInfoInputs.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\01conceitos\obj\Debug\net5.0\01conceitos.AssemblyInfo.cs
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\01conceitos\obj\Debug\net5.0\01conceitos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\01conceitos\obj\Debug\net5.0\01conceitos.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\01conceitos\obj\Debug\net5.0\ref\01conceitos.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\01conceitos\obj\Debug\net5.0\01conceitos.pdb
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\01conceitos\obj\Debug\net5.0\01conceitos.genruntimeconfig.cache
