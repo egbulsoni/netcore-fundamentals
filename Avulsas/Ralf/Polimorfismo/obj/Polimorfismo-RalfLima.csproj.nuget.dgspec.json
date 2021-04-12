@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\Polimorfismo-RalfLima\\Polimorfismo-RalfLima.csproj": {}
+    "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\Ralf\\Polimorfismo\\Polimorfismo-RalfLima.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\Polimorfismo-RalfLima\\Polimorfismo-RalfLima.csproj": {
+    "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\Ralf\\Polimorfismo\\Polimorfismo-RalfLima.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\Polimorfismo-RalfLima\\Polimorfismo-RalfLima.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\Ralf\\Polimorfismo\\Polimorfismo-RalfLima.csproj",
         "projectName": "Polimorfismo-RalfLima",
-        "projectPath": "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\Polimorfismo-RalfLima\\Polimorfismo-RalfLima.csproj",
+        "projectPath": "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\Ralf\\Polimorfismo\\Polimorfismo-RalfLima.csproj",
         "packagesPath": "C:\\Users\\Lenovo T430\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\Polimorfismo-RalfLima\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\Ralf\\Polimorfismo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,0 +1,16 @@
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.AssemblyInfo.cs
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.exe
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.deps.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.runtimeconfig.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.runtimeconfig.dev.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\06Encapsulamento\bin\Debug\net5.0\ref\06Encapsulamento.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.pdb
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\06Encapsulamento\obj\Debug\net5.0\ref\06Encapsulamento.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.pdb
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\Ralf\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.genruntimeconfig.cache
