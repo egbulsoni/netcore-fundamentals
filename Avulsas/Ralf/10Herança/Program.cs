@@ -6,7 +6,7 @@ namespace _10Herança
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Colaborador obj = new Colaborador("Ralf", 30, 2000);
         }
     }
 }
