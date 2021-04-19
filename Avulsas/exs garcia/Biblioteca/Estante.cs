@@ -15,7 +15,7 @@ namespace Biblioteca
             List<Livro> ls = new List<Livro>();
             foreach (Livro l in Livros)
             {
-                if(l.Categoria == "Filosofia"){
+                if(l.Categoria == Categoria.Filosofia){
                     ls.Add(l);
                 }
             }
@@ -26,7 +26,7 @@ namespace Biblioteca
             int contador = 0;
             foreach(Livro l in Livros)
             {
-                if(l.Categoria == "Ciência")
+                if(l.Categoria == Categoria.Ciencia)
                 {
                     contador++;
                 }
@@ -55,10 +55,16 @@ namespace Biblioteca
 
         public List<String> listarAutores(Categoria cat)
         {
-
+            List<string> autores = new List<string>();
+            foreach(Livro l in Livros)
+            {
+                if(l.Categoria == cat)
+                {
+                    autores.Add(l.Autor);
+                }
+            }
+            return autores;
         }
         
-
-        // TODO - implementar (6 e 7)
     }
 }

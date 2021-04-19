@@ -7,9 +7,9 @@ namespace Biblioteca
         public string Nome { get; private set; }
         public string Autor { get; private set; }
         public DateTime AnoDePublicacao { get; private set; }
-        public string Categoria { get; private set; }
-        
-        public Livro(string nome, string autor, DateTime anoDePublicacao, string categoria)
+        public Categoria Categoria { get; private set; }
+        Estante e = new Estante();
+        public Livro(string nome, string autor, DateTime anoDePublicacao, Categoria categoria)
         {
             this.Nome = nome;
             this.Autor = autor;
@@ -18,8 +18,7 @@ namespace Biblioteca
         }
         public void inserirLivro(Livro livro)
         {
-            Estante e = new Estante();
-            
+            e.Livros.Add(livro);   
         }
 
         
