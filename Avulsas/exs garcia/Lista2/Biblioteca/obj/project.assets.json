@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\exs garcia\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\exs garcia\\Lista2\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\exs garcia\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\exs garcia\\Lista2\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\Lenovo T430\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\exs garcia\\Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\exs garcia\\Lista2\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
