@@ -1,0 +1,16 @@
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\exs fatec\OOP lista2\bin\Debug\net5.0\OOP lista2.exe
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\exs fatec\OOP lista2\bin\Debug\net5.0\OOP lista2.deps.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\exs fatec\OOP lista2\bin\Debug\net5.0\OOP lista2.runtimeconfig.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\exs fatec\OOP lista2\bin\Debug\net5.0\OOP lista2.runtimeconfig.dev.json
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\exs fatec\OOP lista2\bin\Debug\net5.0\OOP lista2.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\exs fatec\OOP lista2\bin\Debug\net5.0\ref\OOP lista2.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\exs fatec\OOP lista2\bin\Debug\net5.0\OOP lista2.pdb
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\exs fatec\OOP lista2\obj\Debug\net5.0\OOP lista2.csprojAssemblyReference.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\exs fatec\OOP lista2\obj\Debug\net5.0\OOP lista2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\exs fatec\OOP lista2\obj\Debug\net5.0\OOP lista2.AssemblyInfoInputs.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\exs fatec\OOP lista2\obj\Debug\net5.0\OOP lista2.AssemblyInfo.cs
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\exs fatec\OOP lista2\obj\Debug\net5.0\OOP lista2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\exs fatec\OOP lista2\obj\Debug\net5.0\OOP lista2.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\exs fatec\OOP lista2\obj\Debug\net5.0\ref\OOP lista2.dll
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\exs fatec\OOP lista2\obj\Debug\net5.0\OOP lista2.pdb
+C:\Users\Lenovo T430\Desktop\dev\aspnet fundamentals\Avulsas\exs fatec\OOP lista2\obj\Debug\net5.0\OOP lista2.genruntimeconfig.cache
