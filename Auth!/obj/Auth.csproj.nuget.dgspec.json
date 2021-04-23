@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\book cs8.net3\\ch04\\WritingFunctions\\WritingFunctions.csproj": {}
+    "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\exs fatec\\Lista2\\Auth\\Auth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\book cs8.net3\\ch04\\WritingFunctions\\WritingFunctions.csproj": {
+    "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\exs fatec\\Lista2\\Auth\\Auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\book cs8.net3\\ch04\\WritingFunctions\\WritingFunctions.csproj",
-        "projectName": "WritingFunctions",
-        "projectPath": "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\book cs8.net3\\ch04\\WritingFunctions\\WritingFunctions.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\exs fatec\\Lista2\\Auth\\Auth.csproj",
+        "projectName": "Auth",
+        "projectPath": "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\exs fatec\\Lista2\\Auth\\Auth.csproj",
         "packagesPath": "C:\\Users\\Lenovo T430\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\book cs8.net3\\ch04\\WritingFunctions\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\exs fatec\\Lista2\\Auth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
