@@ -1,8 +1,7 @@
 using System;
-class Group:Usuario
+class Group:Usuario, IUsuario
 {
     public string GroupName { get; set; }
-    
     
     public Group(string nome, string groupName)
     {
@@ -10,7 +9,7 @@ class Group:Usuario
         GroupName = groupName;
         TipoDeUsuario = TipoUser.Group.ToString();
     }
-    public string DescricaoPermissao()
+    public override string DescricaoPermissao()
     {
         Console.WriteLine($"{Nickname} pode: desmanchar o grupo, convidar alguem para este grupo, remover alguem do grupo");
     }
@@ -19,7 +18,7 @@ class Group:Usuario
         Console.WriteLine($"Você é o usuário {Nickname}, com permissões de GRUPO");
     }
 
-    public void DespedidaGroup()
+    public override void DespedidaGroup()
     {
         Console.WriteLine($"Usuário {Nickname} está se desvencilhando do grupo, passando a liderança para outro membro.");
     }

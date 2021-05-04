@@ -7,6 +7,6 @@ public abstract class Usuario
     {
         return $"Boas vindas: {Nickname} de nominação {TipoDeUsuario}";
     }
-    public abstract void DespedidaUsuario();
+    
     
 }

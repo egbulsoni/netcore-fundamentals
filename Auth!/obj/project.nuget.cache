@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0vuSMlSh8iRCq4mgKDAMNhGALYWYnQa1NAStKX7wg6loYgRCap7Nng0s8N5A/r0RJAqaw+5LEc8bivqK8+6ibQ==",
+  "dgSpecHash": "ZIW8n4TmpuZBgfmiYaU/UQaPhF1nNpXhJ1EMaU7XzVv/zrbxKtpaTRvhwRBFqsve2zCFwOjJow3xLvpkHdrv4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo T430\\Desktop\\dev\\aspnet fundamentals\\Avulsas\\exs fatec\\Lista2\\Auth\\Auth.csproj",
+  "projectFilePath": "/home/egbulsoni/Documentos/netcore-fundamentals/Auth!/Auth.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

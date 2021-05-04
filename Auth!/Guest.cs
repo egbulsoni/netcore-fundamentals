@@ -1,7 +1,7 @@
 using System;
 class Guest:Usuario
 {
-    public string DescricaoPermissao()
+    public override string DescricaoPermissao()
     {
         Console.WriteLine("Você pode usar o sistema para coisas simples, nada de salvar ou baixar arquivos");
     }
