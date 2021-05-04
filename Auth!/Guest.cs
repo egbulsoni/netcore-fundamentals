@@ -3,11 +3,13 @@ class Guest:Usuario
 {
     public override string DescricaoPermissao()
     {
-        Console.WriteLine("Você pode usar o sistema para coisas simples, nada de salvar ou baixar arquivos");
+        // Console.WriteLine("Você pode usar o sistema para coisas simples, nada de salvar ou baixar arquivos");
+        return "Você pode usar o sistema para coisas simples, nada de salvar ou baixar arquivos";
     }
     public string MsgBoasVindas()
     {
-        Console.WriteLine($"Você é o usuário {Nickname}, com permissões de GRUPO");
+        // Console.WriteLine($"Você é o usuário {Nickname}, com permissões de GRUPO");
+        return "Você é o usuário {Nickname}, com permissões de GRUPO";
     }
 
     public void DespedidaGroup()

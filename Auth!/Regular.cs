@@ -10,9 +10,10 @@ class Regular:Usuario
     {
         Console.WriteLine("Bem vindo ao dashboard");
     }
-    public string DescricaoPermissao()
+    public override string DescricaoPermissao()
     {
         Console.WriteLine($"Você pode: excluir seus personagens e controlar os mesmos");
+        return $"Bem vindo ao mundo {Nickname}, você é um personagem único/autêntico!";
     }
 
     public void DespedidaRegular()
